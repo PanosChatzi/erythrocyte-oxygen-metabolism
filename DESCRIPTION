@@ -1,0 +1,19 @@
+Package: rbcOxy
+Type: Package
+Title: Red Blood Cell Oxygen Metabolism
+Version: 0.1.0
+Author: person(given = "Panagiotis", middle = "N", family = "Chatzinikolaou", 
+    email = "chatzinp@gmail.com", role = c("aut", "cre")
+    comment = c(ORCID = "0000-0002-8136-1638")
+Description: This package corresponds to the manuscript titled "Erythrocyte metabolism",
+    which has been published in Acta Physiologica (doi 10.1111/apha.14081). 
+    Custom functions were written to construct models of hemoglobin oxygen saturation, total blood oxygen capacity, 
+    and blood transit time in capillaries, based on established mathematical models in the literature.
+    Finally, a function to plot the hemoglobin oxygen dissociated curve was also created with addittional features
+    for exploration. For more information on the physiology and metabolism of the erythrocyte
+    please refer to our manuscript.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
