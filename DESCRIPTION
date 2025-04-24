@@ -9,7 +9,7 @@ Description: This package corresponds to the manuscript titled "Erythrocyte meta
     which has been published in Acta Physiologica (doi 10.1111/apha.14081). 
     Custom functions were written to construct models of hemoglobin oxygen saturation, total blood oxygen capacity, 
     and blood transit time in capillaries, based on established mathematical models in the literature.
-    Finally, a function to plot the hemoglobin oxygen dissociated curve was also created with addittional features
+    Finally, a function to plot the hemoglobin oxygen dissociated curve was also created with additional features
     for exploration. For more information on the physiology and metabolism of the erythrocyte
     please refer to our manuscript.
 License: MIT + file LICENSE
